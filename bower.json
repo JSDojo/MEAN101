@@ -1,9 +1,12 @@
 {
-    "name":"ContactsAPI",
-    "description":"A nice backend API with a frontend to test some $http requests",
-    "dependencies":{
-        "angular":"latest",
-        "bootstrap":"latest",
-        "font-awesome":"latest"
-    }
+  "name": "MEAN101",
+  "description": "A project setup to work on the basics of Mongo, Express, Angular and Node",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/JSDojo/MEAN101.git"
+  },
+  "dependencies": {
+      "bootstrap": "latest",
+      "angular":"latest"
+  }
 }

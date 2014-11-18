@@ -1,10 +1,15 @@
 {
-    "name":"MEAN101",
-    "description":"A project setup to work on the basics of Mongo, Express, Angular and Node",
-    "dependencies":{
-        "express":"latest",
-        "mongoose":"latest",
-        "body-parser":"latest",
-        "morgan":"latest"
-    }
+  "name": "MEAN101",
+  "description": "A project setup to work on the basics of Mongo, Express, Angular and Node",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/JSDojo/MEAN101.git"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "bower": "^1.3.12",
+    "express": "latest",
+    "mongoose": "latest",
+    "morgan": "latest"
+  }
 }
