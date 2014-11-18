@@ -88,31 +88,7 @@ This should leave our directory tree looking somewhat like this:
     |--README.md
     |--server.js
     
-Now we are ready to start coding our API...
-
-### 2. The great design
-
-Ok, let's think for a moment what we want our api to do...since it is a Contacts app, we probably want to:
-
-- See all our contacts in an orderly fashion
-- Add some new contacts
-- Delete a contact we no longer want to honor with it's row on our list
-- Update some info on a contact
-
-So our api should be something like this
-
-**GET /api/contacts** 					: Get a json with all our contacs from our database
-
-**POST /api/contacts**					: Insert a new contact in the database
-
-**GET /api/contacts/:contact_id**		: Get an especific contact by id
-
-**DELETE /api/contacts/:contact_id**	: Delete a contact from the database by id
-
-**PUT /api/contacts/:contact_id**		: Update a specific contact by id
-
-And for starters, lets focus on getting the whole list and displaying it with angular:
-
+Now we are ready to start...
 
 
 
