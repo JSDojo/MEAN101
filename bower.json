@@ -1,0 +1,9 @@
+{
+    "name":"ContactsAPI",
+    "description":"A nice backend API with a frontend to test some $http requests",
+    "dependencies":{
+        "angular":"latest",
+        "bootstrap":"latest",
+        "font-awesome":"latest"
+    }
+}

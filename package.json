@@ -1,0 +1,10 @@
+{
+    "name":"MEAN101",
+    "description":"A project setup to work on the basics of Mongo, Express, Angular and Node",
+    "dependencies":{
+        "express":"latest",
+        "mongoose":"latest",
+        "body-parser":"latest",
+        "morgan":"latest"
+    }
+}
